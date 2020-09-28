@@ -1,0 +1,35 @@
+main.pbi: D:\Apps\IAR\ Systems\STM8\stm8\inc\c\ysizet.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\ycheck.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\string.h \
+  D:\Software\Development\Electronics\ Database\STM8\STM8_EX\rtc.h \
+  D:\Software\Development\Electronics\ Database\STM8\STM8_EX\main.h \
+  D:\Software\Development\Electronics\ Database\STM8\STM8_EX\MAX72XX.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\stdbool.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\ystdio.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\DLib_Threads.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\yvals.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\xencoding_limits.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\DLib_Product.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\DLib_Defaults.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\stdio.h \
+  D:\Apps\IAR\ Systems\STM8\stm8\inc\c\intrinsics.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_wwdg.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_uart1.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_tim2.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_tim1.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_spi.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_rst.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_iwdg.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_itc.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_i2c.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_flash.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_exti.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_clk.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_beep.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_awu.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\inc\stm8s_adc1.h \
+  C:\Users\MX\Desktop\HomeRadio\STM8S_StdPeriph_Driver\stm8s_conf.h \
+  D:\Software\Development\Electronics\ Database\STM8\STM8_EX\main.c

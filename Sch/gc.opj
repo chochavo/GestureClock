@@ -1,0 +1,106 @@
+(ExpressProject "GC"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\sch\clockparts.olb"
+        (Type "Schematic Library")
+        (DisplayName ".\sch\clockparts.olb")))
+    (NoModify)
+    (File ".\gc.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\gc.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\gc.dsn")
+      (Path "Design Resources" ".\gc.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\sch\clockparts.olb")
+      (Select "Design Resources" ".\gc.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 227"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "-421 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\GOOGLE DRIVE\HOME PROJECTS\GESTURECLOCK\SCH\GC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LN03202
+      (FullPartName "LN03202.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (2N2904
+      (FullPartName "2N2904.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (2N2222
+      (FullPartName "2N2222.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (2Y0A21
+      (FullPartName "2Y0A21.Normal")
+      (LibraryName
+         "C:\USERS\MX\GOOGLE DRIVE\HOME PROJECTS\GESTURECLOCK\SCH\SCH\CLOCKPARTS.OLB")
+      (DeviceIndex "0"))
+    (MAX7219_10X10
+      (FullPartName "MAX7219_10X10.Normal")
+      (LibraryName
+         "C:\USERS\MX\GOOGLE DRIVE\HOME PROJECTS\GESTURECLOCK\SCH\SCH\CLOCKPARTS.OLB")
+      (DeviceIndex "0"))
+    (DS1621
+      (FullPartName "DS1621.Normal")
+      (LibraryName
+         "C:\USERS\MX\GOOGLE DRIVE\HOME PROJECTS\GESTURECLOCK\SCH\SCH\CLOCKPARTS.OLB")
+      (DeviceIndex "0"))
+    (DS1302
+      (FullPartName "DS1302.Normal")
+      (LibraryName
+         "C:\USERS\MX\GOOGLE DRIVE\HOME PROJECTS\GESTURECLOCK\SCH\SCH\CLOCKPARTS.OLB")
+      (DeviceIndex "0"))
+    (STM8S105K4T6
+      (FullPartName "STM8S105K4T6.Normal")
+      (LibraryName
+         "C:\USERS\MX\GOOGLE DRIVE\HOME PROJECTS\GESTURECLOCK\SCH\SCH\CLOCKPARTS.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (MPSSessionName "MX"))
